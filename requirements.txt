@@ -1,0 +1,8 @@
+streamlit==1.39.0
+kagglehub
+numpy
+pandas
+plotly
+tensorflow
+matplotlib
+seaborn
